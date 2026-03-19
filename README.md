@@ -29,4 +29,4 @@ T1566 · T1078 · T1059.001 · T1486 · T1490 · T1110 · T1003 · T1021.002
 
 ## 🔗 Related Projects
 
-- [sigma-siem-rules](https://github.com/arash-123456/sigma-siem-rules) — Detection rules for early ransomware detection
+- [sigma-siem-rules](https://github.com/pentest2/sigma-siem-rules) — Detection rules for early ransomware detection
